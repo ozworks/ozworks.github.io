@@ -1,0 +1,8 @@
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin : "default"
+url : "https://ozworks.github.io"
+baseurl : ""
+locale : "ko-KR"
+title : "Ozworks"
+title_separator : "-"
+description : "Dev blog"
