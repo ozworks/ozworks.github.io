@@ -1,7 +1,6 @@
 ---
 layout: page
-title: POST TITLE
-permalink: /about/
+title: "POST TITLE"
 ---
 
 # This is Sample Post of my github blog
